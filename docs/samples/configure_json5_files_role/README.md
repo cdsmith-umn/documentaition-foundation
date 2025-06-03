@@ -663,6 +663,6 @@ These variables are specific to the Jinja2 templates used by this role.
 
   Developed by the AT Tools team. For questions or feedback, email attdevs@umn.edu.
 
-  [Back to main README](../../README.md)
-
 </details>
+
+[Back to main README](../../README.md)
